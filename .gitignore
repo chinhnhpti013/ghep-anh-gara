@@ -1,0 +1,43 @@
+# ============================================
+# .gitignore – Skill ghep-anh-gara (PTI SOS)
+# ============================================
+
+# --- Ảnh thật & dữ liệu nhạy cảm ---
+*.jpg
+*.JPG
+*.jpeg
+*.JPEG
+*.png
+*.PNG
+*.pdf
+*.PDF
+
+# --- Logo nội bộ PTI ---
+assets/logo-ptisos.png
+
+# --- Thư mục ảnh mẫu thật ---
+example/input/
+example/output/
+
+# --- File hệ thống macOS ---
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# --- File hệ thống Windows ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- Python cache ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.env
+.venv
+venv/
