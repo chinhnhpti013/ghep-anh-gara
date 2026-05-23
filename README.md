@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚗 Skill: Ghép Ảnh Giám Định Xe Ô Tô PTI – Xuất PDF
 
 > Skill dành cho **Claude (Anthropic)** – tự động ghép ảnh giám định xe ô tô thành bộ PDF chuẩn định dạng PTI SOS.
@@ -208,3 +209,7 @@ example/output/
 ## 📞 Liên hệ
 
 > Phòng Giám định và Cứu hộ tại Quảng Ninh – PTI SOS
+=======
+# ghep-anh-gara
+Skill ghép ảnh giám định xe ô tô PTI, xuất PDF chuẩn định dạng
+>>>>>>> d5eda66a624e212429787497c023a492355e6b30
